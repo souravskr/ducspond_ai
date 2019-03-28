@@ -6,9 +6,9 @@
 ## Files:
 
 * **SVHN_CNN_64*2.ipynb** : with convolution neural network
-* **epoch_acc_loss.jpg** : in-sample accuracy and in-sample loss
-* **epoch_val_acc_loss.jpg** : out of sample accuracy and out of sample loss
-* **SVHN_CNN_64*2.h5** : we saved our model
+* **los_acc.jpg** : in-sample and out of sample accuracy with loss
+* **prediction.png** : predictions based on the testing data
+* **SVHN_CNN.h5** : we saved our model
 
 
 ## Findings:
