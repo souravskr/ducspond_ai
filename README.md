@@ -13,5 +13,9 @@
 
 ## Findings:
 
-We will evaluate our model with testing data and plot several images with their predictions with percentage (out of 100).
+We have evaluated our model with testing data and plotted several images with their predictions with percentage (out of 100) as follows:
+![Our predictions](https://github.com/souravskr/ducspond_ai/blob/SVHN_CNN/predictions.png)
+
+We also have plotted some graphs of in-sample and out of sample accuracy with loss based on the epoch value as follows:
+![loss_accuracy](https://github.com/souravskr/ducspond_ai/blob/SVHN_CNN/los_acc.jpg)
 
