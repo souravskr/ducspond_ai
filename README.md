@@ -5,7 +5,7 @@
 
 ## Files:
 
-* **SVHN_CNN_64*2.ipynb** : with convolution neural network
+* **SVHN_CNN.ipynb** : with convolution neural network
 * **los_acc.jpg** : in-sample and out of sample accuracy with loss
 * **prediction.png** : predictions based on the testing data
 * **SVHN_CNN.h5** : we saved our model
